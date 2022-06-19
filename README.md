@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-
-**shelby-000/shelby-000** is a ✨ _special_ ✨ repository because its `README.md`
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Secret Project ...
 - 🌱 I’m currently learning MERN ...
 - 👯 I’m looking to collaborate on Open Source Projects ...
