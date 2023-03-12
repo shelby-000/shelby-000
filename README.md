@@ -8,3 +8,6 @@
 
 - ⚡ Fun fact: It is physically impossible for pigs to look up into the sky. 
 
+
+[![Quotify](https://github-readme-quotify.vercel.app/api?mode=mixed&type=horizontal&theme=monokai)](https://github.com/Vishal-beep136/github-readme-quotify)
+
